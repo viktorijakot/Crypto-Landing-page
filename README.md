@@ -1,0 +1,1 @@
+Crypto landing page darbas su responsive 375px
