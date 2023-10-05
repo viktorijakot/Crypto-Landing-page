@@ -18,7 +18,7 @@ body {
 header {
   position: fixed;
   z-index: 3;
-  background: url(images/bg.svg);
+  background: url(../images/bg.svg);
   width: 100%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -112,7 +112,7 @@ header button:hover {
 }
 .background1 {
   position: relative;
-  background: url(images/bg.svg) bottom center / cover;
+  background: url(../images/bg.svg) bottom center / cover;
   background-repeat: no-repeat;
   background-color: #1b004e;
   height: 621.99px;
